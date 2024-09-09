@@ -1,7 +1,7 @@
 const App = () => (
   <>
     <div className="flex items-center justify-center h-full min-h-screen bg-[#F4D04E]">
-      <div className="flex flex-col font-figtree w-[327px] sm:w-[384px] rounded-[20px] bg-white p-[23px] border border-black shadow-[rgba(0,0,0,1)_8px_8px_1px_1px]">
+      <div className="flex flex-col tracking-normal font-figtree w-[327px] sm:w-[384px] rounded-[20px] bg-white p-[23px] border border-black shadow-[rgba(0,0,0,1)_8px_8px_0px_0px]">
         <img
           className="rounded-[10px]"
           src="/images/illustration-article.svg"
